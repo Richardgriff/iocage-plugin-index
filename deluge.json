@@ -8,8 +8,7 @@
         "nat_forwards": "tcp(8112:8112)"
      },
     "pkgs": [
-        "deluge-cli",
-        "libtorrent-rasterbar"
+        "deluge-cli"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
